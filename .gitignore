@@ -1,0 +1,33 @@
+# Node modules
+/node_modules/
+
+# Build output
+/dist/
+/build/
+
+# Vite cache
+/.vite/
+
+# Arquivos de configuração do Vite (geralmente não precisam ser versionados)
+.vite/
+
+# Arquivos de ambiente
+.env
+.env.*.local
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependências do sistema operacional
+.DS_Store
+Thumbs.db
+
+# IDEs e editores
+/.vscode/
+/.idea/
+
+# Arquivos de sistemas do MacOS
+*.swp
